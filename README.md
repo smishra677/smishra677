@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Selected Projects
-- **reconcILS** — Reconciliation under duplication–loss models  
+- **reconcILS** — reconciliation under duplication–loss-coalescence  model
 - **NoDear** — No Disequilibrium Estimation of Accurate Recombination  
 
 _(See pinned repositories below 👇)_
