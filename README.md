@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Sarthak Mishra 👋</h1>
 
 <p align="center">
-🎓 PhD Candidate in Computer Science · Hahn Lab · Indiana University Bloomington  
+🎓 PhD Candidate in Computer Science @ Hahn Lab @ Indiana University Bloomington  
 <br/>
 🧬 Computational Phylogenetics · Gene–Species Tree Reconciliation
 </p>
@@ -14,7 +14,7 @@
 
 ## 🔬 Research Interests
 - Gene tree / species tree discordance  
-- Duplication–loss and MSC-based models  
+- Duplication–loss + MSC-based models  
 - Algorithmic and statistical phylogenetics  
 
 ---
