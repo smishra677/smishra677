@@ -41,8 +41,8 @@
 
 ## 📌 Selected Projects
 - **[DAFT](https://github.com/smishra677/DAFT)** — Discordant Attachment Frequency Tool for detecting and characterizing introgression from species trees and gene trees  
-- **reconcILS** — reconciliation under duplication–loss–coalescence models  
-- **NoDEAR** — No Disequilibrium Estimation of Accurate Recombination  
+- **[reconcILS](https://github.com/smishra677/reconcILS)** — reconciliation under duplication–loss–coalescence models  
+- **[NoDEAR](https://github.com/smishra677/NoDEAR)** — No Disequilibrium Estimation of Accurate Recombination  
 
 _(See pinned repositories below 👇)_
 
