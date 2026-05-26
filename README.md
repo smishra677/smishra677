@@ -16,12 +16,14 @@
 - Gene tree / species tree discordance  
 - Duplication–loss + MSC-based models  
 - Algorithmic and statistical phylogenetics  
+- Introgression detection and direction inference  
 
 ---
 
 ## 📁 Repository Activity
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=smishra677.DAFT&label=DAFT%20Views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=smishra677.reconcILS&label=reconcILS%20Views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=smishra677.NoDEAR&label=NoDEAR%20Views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=smishra677.Distribution-of-Gene-Tree-Topologies-with-Duplication-Loss-and-Coalescence&label=DL%2BMSC%20Views" />
@@ -38,6 +40,7 @@
 ---
 
 ## 📌 Selected Projects
+- **[DAFT](https://github.com/smishra677/DAFT)** — Discordant Attachment Frequency Tool for detecting and characterizing introgression from species trees and gene trees  
 - **reconcILS** — reconciliation under duplication–loss–coalescence models  
 - **NoDEAR** — No Disequilibrium Estimation of Accurate Recombination  
 
